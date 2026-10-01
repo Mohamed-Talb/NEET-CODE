@@ -9,7 +9,7 @@
 // 3- CODE
 class Solution
 {
-public:
+    public:
     int longestConsecutive(vector<int>& nums) 
     {
         std::unordered_map<int, int> myMap;
